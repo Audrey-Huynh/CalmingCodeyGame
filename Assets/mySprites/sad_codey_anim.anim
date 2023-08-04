@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: heartbeat_anim
+  m_Name: sad_codey_anim
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,11 +20,11 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 7820174482946631608, guid: ba0cbaaecd1681b4596543646afcfee0, type: 3}
-    - time: 0.6666667
-      value: {fileID: 4572375756088769370, guid: ba0cbaaecd1681b4596543646afcfee0, type: 3}
-    - time: 0.8333333
-      value: {fileID: 4572375756088769370, guid: ba0cbaaecd1681b4596543646afcfee0, type: 3}
+      value: {fileID: 5525875387241347560, guid: 70537caef4f486c4bbb60b418d805e4c, type: 3}
+    - time: 0.93333334
+      value: {fileID: 6566231417176167611, guid: 70537caef4f486c4bbb60b418d805e4c, type: 3}
+    - time: 1.9333333
+      value: {fileID: 6566231417176167611, guid: 70537caef4f486c4bbb60b418d805e4c, type: 3}
     attribute: m_Sprite
     path: 
     classID: 114
@@ -44,15 +44,15 @@ AnimationClip:
       customType: 0
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: 7820174482946631608, guid: ba0cbaaecd1681b4596543646afcfee0, type: 3}
-    - {fileID: 4572375756088769370, guid: ba0cbaaecd1681b4596543646afcfee0, type: 3}
-    - {fileID: 4572375756088769370, guid: ba0cbaaecd1681b4596543646afcfee0, type: 3}
+    - {fileID: 5525875387241347560, guid: 70537caef4f486c4bbb60b418d805e4c, type: 3}
+    - {fileID: 6566231417176167611, guid: 70537caef4f486c4bbb60b418d805e4c, type: 3}
+    - {fileID: 6566231417176167611, guid: 70537caef4f486c4bbb60b418d805e4c, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.84999996
+    m_StopTime: 1.9499999
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
