@@ -7,10 +7,8 @@ public class AnimationSpeed : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        /*AnimationClip heartbeat_anim;
-        Animator Heart;
+        //Animator heartbeat_anim;
 
-        heartbeat_anim.speed = 1;*/
     }
 
     // Update is called once per frame
@@ -21,6 +19,13 @@ public class AnimationSpeed : MonoBehaviour
 
     /*void increaseBeat()
     {
-        heartbeat_anim.speed = 2;
+        heartbeat_anim.speed = heartbeat_anim.speed + 0.1;
+    }
+
+    void decreaseBeat()
+    {
+        heartbeat_anim.speed = heartbeat_anim.speed - 0.1;
     }*/
+
+
 }
